@@ -1,6 +1,6 @@
 bts-mgr
 
-Base station management markup
+Base station management mockup
 ==========================
 
 Basic directory structures:
@@ -8,6 +8,6 @@ Basic directory structures:
 	clients - client code
 	server  - server code
 
-All the docments will be stored in docs directory.
+All the documents will be stored in docs directory.
 
 m-guo@hotmail.com
